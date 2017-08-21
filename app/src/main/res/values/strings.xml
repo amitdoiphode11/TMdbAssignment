@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TMdb</string>
+    <string name="releaseDate">Release Date</string>
+    <string name="adult">Adult</string>
+    <string name="pleaseWait">Please wait...</string>
+    <string name="action_developer">Developed by</string>
+    <string name="noInternet">No internet connection.</string>
+    <string name="developer_name">Amit Doiphode</string>
+</resources>
