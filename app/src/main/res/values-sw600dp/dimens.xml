@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="activity_vertical_margin">24dp</dimen>
+    <dimen name="activity_left_margin">11dp</dimen>
+
+    <dimen name="tr_padding">8dp</dimen>
+    <dimen name="appBar_height">288dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="chkState">32dp</dimen>
+    <dimen name="chkStatePadding">8dp</dimen>
+    <dimen name="image_height_weight">296dp</dimen>
+    <dimen name="clickPoint">2.67dp</dimen>
+    <dimen name="logoSize">104dp</dimen>
+    <dimen name="graphHeight">240dp</dimen>
+    <dimen name="navProfileHW">80dp</dimen>
+    <dimen name="deleteButton">40dp</dimen>
+    <dimen name="textSize">12dp</dimen>
+    <dimen name="viewPagerHeight">300dp</dimen>
+    <dimen name="viewPagerDotHeight">40dp</dimen>
+
+</resources>
